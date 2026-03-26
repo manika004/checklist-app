@@ -18,4 +18,4 @@ A simple checklist/to-do list web app built using HTML, CSS, and JavaScript.
 2. Open index.html in a browser
 
 ## Live Demo
-(Will be available via GitHub Pages)
+https://manika004.github.io/checklist-app
